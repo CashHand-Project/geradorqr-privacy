@@ -1,0 +1,2 @@
+# geradorqr-privacy
+geradorqr-privacy
